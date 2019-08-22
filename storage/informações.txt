@@ -1,0 +1,5 @@
+Utilizando a estrutura de diretorios do Laravel descrito no artigo abaixo 
+
+https://laravel.com/docs/5.3/structure#the-root-directory
+
+

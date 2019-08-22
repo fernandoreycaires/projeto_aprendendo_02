@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+.home_dash{
+    display: inline-block;
+    width: 350px;
+    height: 200px;
+    margin: 20px;
+    border: none;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.404);
+    background-color: rgba(255, 255, 255, 0.342);
+}
+
+span#titu_agend {
+    color:rgb(65, 66, 145);
+    font-size: 15pt;
+    display: block;
+    position: relative;
+    text-align: center;
+    margin-top: 10px;
+}
+
+span#valor_agend {
+    color: rgb(12, 80, 46);
+    font-size: 50pt;
+    display: block;
+    position: relative;
+    top: 40px;
+    text-align: center;
+}
